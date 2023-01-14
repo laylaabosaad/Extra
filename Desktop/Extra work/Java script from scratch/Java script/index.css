@@ -1,0 +1,63 @@
+body{
+    background-image: url(train.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+h1{
+    color: white;
+    font-size: 90px;
+    font-family:monospace;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+
+
+#allP{
+    background-color: black;
+    opacity: 0.6;
+    padding: 8px;
+    margin: 400px;
+    margin-bottom: 100px;
+    margin-top: 80px;
+
+}
+
+
+p{ 
+    font-size: 50px;
+    font-family:monospace;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    color: white;
+   
+}
+
+button{
+    border-color: black;
+    border-radius: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    background-color:rgb(118, 158, 245);
+    
+}
+
+#add{
+   
+    margin-right: 70px;
+}
+
+#allButton{
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+   
+}
