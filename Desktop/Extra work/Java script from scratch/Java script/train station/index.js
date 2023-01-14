@@ -16,6 +16,24 @@ function save(){
     saveEl.textContent+= save;
     countEl.innerText= 0;
     count=0;
-
-
 }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
